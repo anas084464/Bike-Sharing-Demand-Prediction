@@ -1,9 +1,9 @@
 # Bike-Sharing-Demand-Prediction
 Supervised Machine Learning (Regression)                                                                   
                                                    
-                                                   SEOUL RENTAL BIKE DEMAND PREDICTION
-                                                           Data science trainee,
-                                                           AlmaBetter, Bangalore
+ SEOUL RENTAL BIKE DEMAND PREDICTION
+ Data science trainee,
+ AlmaBetter, Bangalore
 
 
 
